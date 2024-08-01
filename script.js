@@ -1,6 +1,6 @@
 // your code here
-const name=document.getElementById("name").value;
-const year=document.getElementById("year").;
+const name=document.getElementById("name");
+const year=document.getElementById("year");
 const btn=document.getElementById("button");
 const url=document.getElementById("url");
 
